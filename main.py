@@ -1,7 +1,8 @@
-"""Velmara passport spread: copy the committed entry.png to /output.
+"""Drevnar passport spread: copy the committed entry.png to /output.
 
 The spread itself (1024x1024 PNG, under 1 MiB) was rendered in-session
-with PIL + Noto fonts from a generated passport portrait of Mara Ilsen.
+with PIL + Noto fonts from a generated passport portrait of Andrej Kovac,
+mountain guide of the Republic of Drevnar.
 This program is deterministic and uses only the standard library.
 """
 import shutil
